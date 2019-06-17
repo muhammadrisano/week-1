@@ -10,3 +10,6 @@ $ git clone https://github.com/tatasfachrul/week-1.git
 ### edit
 ```
 hello world
+```
+### test
+```
