@@ -14,3 +14,6 @@ hello world
 ### test
 ```
 cuma coba-coba
+git remote add origin https://github.com/muhammadrisano/week-1.git
+
+git push -u origin master
